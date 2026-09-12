@@ -7,9 +7,9 @@ Robotics & autonomous systems. Some cybersecurity & communications on the side.
 Graduate work in autonomous systems, with a focus on defense technologies.
 Algorithmic focus for control and optimization, alongside applied cryptography and general security work.
 
-Mostly Python and C++, ROS/ROS2 when the project calls for it.
+Mostly embedded systems, but Python when a project calls for it.
 
-I keep a [personal site](https://perseuspfohl.github.io) where I write things up as I go — less a portfolio, more a notebook.
+I keep a [personal site](https://perseuspfohl.github.io) where I write things up as I go, less a portfolio, more a notebook.
 
 ## elsewhere
 
